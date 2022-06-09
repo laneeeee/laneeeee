@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @laneeeee
-- 👀 I’m interested in coding, game developement.
-- 🌱 I’m currently learning C#, JavaScript, C++, SQL
+- 👋 Hi, I’m Aleksandar
+- 👀 I’m interested in coding, game developement, video and photo editing.
+- 🌱 I’m currently learning HTML, CSS, Python, Djnago and JavaScript.
 - 📫 How to reach me aleksandarn314@gmail.com
 
 <!---
